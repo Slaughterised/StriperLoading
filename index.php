@@ -19,7 +19,7 @@ $APIKey = "B47972F55DC17F5342C69EC61DEF8EE2"; // Go get your API here: http://st
 
 include ('includes/errorcheck.php'); //To see whether or not you have the right extension in your URL
 
-$steamid64 = $_GET["steamid"];
+$steamid64 = $_GET["76561198077920174"];
 
 //This basically gets us the information needed to output information about the user.
 $url = "http://api.steampowered.com/ISteamUser/GetPlayerSummaries/v0002/?key=" . $APIKey . "&steamids=" . $steamid64;
