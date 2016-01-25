@@ -13,7 +13,7 @@
 //  /  _____  \  |  |\   | |  `--'  | |  |\   |     |  |     |  |  |  | |  `--'  | |  `--'  | .----)   |      |  `----.|  |____ /  _____  \  |  .  \  |  |\  \----.
 // /__/     \__\ |__| \__|  \______/  |__| \__|     |__|     |__|  |__|  \______/   \______/  |_______/       |_______||_______/__/     \__\ |__|\__\ | _| `._____|
 
-error_reporting(0); //Remove this if you do not seem to get your loading screen to work if you have tried other options
+// error_reporting(0); //Remove this if you do not seem to get your loading screen to work if you have tried other options
 
 $APIKey = "AA58256C456145D09E00FEF4802A924C"; // Go get your API here: http://steamcommunity.com/dev/apikey
 
