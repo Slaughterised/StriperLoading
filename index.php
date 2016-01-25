@@ -44,7 +44,7 @@ $steamid32 = "STEAM_0:$authserver:$authid";
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN">
 
 <head>
- <title>Red Snow EvocityRP</title>
+ <title>Slaughters Personal Server</title>
 <meta charset="utf-8">
 <link rel="stylesheet" type="text/css" href="css/style.css" rel="stylesheet">
 <link href="css/font-awesome.css" rel="stylesheet">
